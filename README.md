@@ -25,11 +25,11 @@ All the resources I used for this project can be found in the following Google D
 
 [![Contributors](https://img.shields.io/github/last-commit/SophieBarriault/Thermoplastic-Corset
 )](https://github.com/SophieBarriault/Thermoplastic-Corset/graphs/contributors)
-[![Last Commit](https://img.shields.io/github/last-commit/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-)](https://github.com/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-)
-[![Forks](https://img.shields.io/github/forks/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-)](https://github.com/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-/network/members)
-[![Stars](https://img.shields.io/github/stars/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-)](https://github.com/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-/stargazers)
-[![Issues](https://img.shields.io/github/issues/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-)](https://github.com/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-/issues)
-[![License](https://img.shields.io/github/license/SophieBarriault/Dispenser.svg)](https://github.com/SophieBarriault/Rain-And-Waterfall-System-For-Terrariums-Paludariums-Design/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/SophieBarriault/Thermoplastic-Corset)](https://github.com/SophieBarriault/Thermoplastic-Corset)
+[![Forks](https://img.shields.io/github/forks/SophieBarriault/Thermoplastic-Corset)](https://github.com/SophieBarriault/Thermoplastic-Corset/network/members)
+[![Stars](https://img.shields.io/github/stars/SophieBarriault/Thermoplastic-Corset)](https://github.com/SophieBarriault/Thermoplastic-Corset/stargazers)
+[![Issues](https://img.shields.io/github/issues/SophieBarriault/Thermoplastic-Corset)](https://github.com/SophieBarriault/Thermoplastic-Corset/issues)
+[![License](https://img.shields.io/github/license/SophieBarriault/Thermoplastic-Corset.svg)](https://github.com/SophieBarriault/Thermoplastic-Corset/blob/main/LICENSE)
 
 [View Demo](https://drive.google.com/file/d/1vlszCyn_WEQVgnMubaLK-mLIXZsSI-Hc/view?usp=sharing) ·
 [Documentation](https://github.com/SophieBarriault/Dispenser/blob/main/README.MD)  ·
