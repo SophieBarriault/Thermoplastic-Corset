@@ -90,10 +90,8 @@ Click to watch the demo of the rain and waterfall system here!
 
 ## 🌟 Original Prom  Dress (2025) Photo Gallery 
 
-![Front view, decorated](Original_Prom_Dress_Photos_(2025)/20250509_201302.jpg) 
 ![image](Original_Prom_Dress_Photos_(2025)/20250509_2048311.jpg) 
-![image](Original_Prom_Dress_Photos_(2025)/20250509_210918.jpg) 
-![image](Original_Prom_Dress_Photos_(2025)/20250509_211011.jpg) 
+
 ![image](Original_Prom_Dress_Photos_(2025)/ATP-0026_pp.jpg) 
 ![image](Original_Prom_Dress_Photos_(2025)/ATP-0030_pp.jpg) 
 ![image](Original_Prom_Dress_Photos_(2025)/ATP-0031_pp.jpg) 
