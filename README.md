@@ -13,11 +13,11 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 ![Logo](/Original_Prom_Dress_Photos_(2025)/20250509_2048311.jpg)
 
-This project is an AI-powered automatic medication dispenser designed to improve medication adherence using a combination of image recognition, OCR, and natural language processing. The system is built for patients, caregivers, and healthcare providers to ensure safe and timely medication intake — all while being monitored remotely through a mobile app.
+This project documents the design and fabrication of a custom corset constructed from thermoplastic and finished to resemble porcelain. Created to pair with my 2025 prom dress, the corset reimagines the original garment for my 2026 prom, transforming it into a sculptural, contemporary piece while preserving its original form.
 
-It integrates hardware control (Arduino), YOLO-based pill recognition, and a custom-trained spaCy NLP model to extract dosage and frequency instructions from prescription labels. A PyQt6 desktop interface manages the system on-device, and a mobile app enables remote supervision. 
+The project explores material experimentation, wearable structure, and sustainable fashion by repurposing an existing dress rather than creating an entirely new garment. By mimicking the delicate visual qualities of porcelain using a durable, moldable material, the corset balances elegance with engineering, blending couture-inspired design with hands-on fabrication.
 
-All the resources I used for this project can be found in the following Google Drive, linked for your reference: https://drive.google.com/drive/folders/1BSqckdxfqDh0ZibXCd9fYPzXVN9h-TSW 
+This repository serves as a record of the design process, material choices, prototyping, and final construction, highlighting how modern materials can be used to reinterpret fashion through both an artistic and technical lens. 
 
 
 **This project is not currently licensed for use or redistribution. All rights reserved.**
@@ -44,7 +44,6 @@ All the resources I used for this project can be found in the following Google D
 # 📔 Table of Contents
 
 - [About the Project](#-about-the-project)
-  - [Demo Video](#-screenshots)
 - [Photo Gallery](#-photo-gallery)
 - [FAQ](#-faq) 
 - [Contact](#-contact)
@@ -55,35 +54,23 @@ All the resources I used for this project can be found in the following Google D
 
 ## 🌟 About the Project
 
-This project is a custom-engineered terrarium system designed to actively simulate rainforest conditions through controlled rainfall, water circulation, and humidity regulation. The system replicates natural precipitation cycles by delivering evenly distributed “rain” across the enclosure while a continuous waterfall recirculates water through the substrate, mimicking rainforest runoff and groundwater flow.
-
-I designed and built a dual rain-and-waterfall mechanism using a concealed pump and custom plumbing routed through 3D-printed and woodworked components. The rainfall system maintains consistent moisture for plants and soil, while the waterfall promotes airflow, stabilizes humidity, and supports a self-sustaining microclimate. Illuminated protective housings integrate the mechanical and electrical components into the environment while allowing for safe operation and easy maintenance.
-
-The design required careful control of flow rates, drainage, and splash patterns to prevent oversaturation while preserving the dynamic water movement characteristic of rainforest ecosystems. Through iterative CAD design, prototyping, and testing, I optimized the system to balance biological needs with mechanical efficiency.
-
-This terrarium functions as both a living rainforest micro-ecosystem and an engineering platform, combining environmental science, mechanical design, and fabrication to recreate natural hydrological processes at a small scale. 
+This porcelain-inspired corset is made from thermoplastic, sculpted and finished to mimic the smooth, delicate look of porcelain while remaining wearable and durable. Designed to pair with my 2025 prom dress, it reimagines the gown for my 2026 prom. 
 
 **Goal:**
 
-To create a terrarium that incorporates both land and water with a waterfall and rain system in order to better simulate the environment of a rainforest. Additionally, a light system was added to help with the growth of the plants. 
-
+To create a porcelain corset for my 2026 prom dress using my 2025 prom dress. 
 
 
 **Core Features:**
 
- - A combined waterfall and rain system
- - Native and non-native plant species:
- - A paludrium design, with both land and a water feature. \
- - Materials used: 
-   - 
+ - The main corset
+  - Celestial/star & moon features
+  - Baroque, nature/plants/flower lace deatils using hotglue and silicone molds
+  - Outer chain decorations 
+ - Back dragon
+ - Potential lace sleeves 
 
----
-
-### 📷 Demo Video 
-
-Click to watch the demo of the rain and waterfall system here! 
-
-[![Watch the Demo Video](Assets_/10.jpg)](https://drive.google.com/file/d/1vlszCyn_WEQVgnMubaLK-mLIXZsSI-Hc/view?usp=sharing) 
+--- 
 
 
 --- 
@@ -104,6 +91,27 @@ Click to watch the demo of the rain and waterfall system here!
 
 
 
+
+
+
+
+## 🌟 Project Ideation Stage Photo Gallery 
+
+![image](Original_Prom_Dress_Photos_(2025)/20250509_2048311.jpg) 
+
+
+
+![image](Prom_Dress_Photos(2025)/20250509_2048311.jpg) 
+
+![image](Prom_Dress_Photos(2025)/ATP-0031_pp.jpg)  
+![image](Prom_Dress_Photos(2025)/ATP-0041_pp.jpg)  
+
+![image](Prom_Dress_Photos(2025)/ATP-0044_pp.jpg) 
+
+
+
+
+
 --- 
 
 <!-- FAQ -->
@@ -111,11 +119,11 @@ Click to watch the demo of the rain and waterfall system here!
 
 - **Why did you make this project?** 
 
-  + Because I've always wanted to make my own terrarium, and I specifically wanted to make one that simulates a rainforest. 
+  + For my 2026 prom dress using my 2025 dress. 
 
 - **What was your source of inspiration for this project?** 
 
-  + My sources of inspiration are the various raining rainforest terrariums and waterfall terrariums I saw people making online, as well as the Cloud Rainforest in Costa Rica.
+  + The other "porcelain" corsets found on the Interent. 
      
 <!-- Contact -->
 ## :handshake: Contact
