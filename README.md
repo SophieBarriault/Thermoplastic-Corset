@@ -97,18 +97,21 @@ To create a porcelain corset for my 2026 prom dress using my 2025 prom dress.
 
 ## 🌟 Project Ideation Stage Photo Gallery 
 
-![image](Original_Prom_Dress_Photos_(2025)/20250509_2048311.jpg) 
+![image](Design_Ideation(2026)/Untitled69_20260207190644.png) 
 
+![image](Design_Ideation(2026)/Untitled69_20260207190653.png) 
 
+![image](Design_Ideation(2026)/Untitled69_20260207190710.png) 
 
-![image](Prom_Dress_Photos(2025)/20250509_2048311.jpg) 
+![image](Design_Ideation(2026)/Untitled69_20260207190724.png) 
 
-![image](Prom_Dress_Photos(2025)/ATP-0031_pp.jpg)  
-![image](Prom_Dress_Photos(2025)/ATP-0041_pp.jpg)  
+![image](Design_Ideation(2026)/Untitled69_20260207190733.png) 
 
-![image](Prom_Dress_Photos(2025)/ATP-0044_pp.jpg) 
+![image](Design_Ideation(2026)/Untitled69_20260207190748.png) 
 
+![image](Design_Ideation(2026)/Untitled69_20260207190757.png) 
 
+![image](Design_Ideation(2026)/Untitled69_20260207190801.png) 
 
 
 
